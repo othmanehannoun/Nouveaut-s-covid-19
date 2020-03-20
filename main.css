@@ -1,0 +1,52 @@
+.bg-light{
+    background-color: white;
+   
+}
+
+.navbar-nav{
+    margin-left: 50%;
+    text-align: right;
+    font-size: 18px;
+}
+
+.span1{
+   color: blue;
+}
+
+.navbar-light .navbar-brand {
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 3%;
+}
+
+.phrase1{
+    text-align: center;
+    font-size: 28px;
+    font-family: unset;
+    color: black;
+    margin-bottom: 64px;
+    margin-top: 8%;
+}
+
+.card-body {
+    
+    background-color: #d2d2ec;
+
+}
+
+.icn{
+    margin-top: 15px;
+    font-size: 33px;
+    
+}
+
+.b{
+    border-bottom: 1px solid black;
+    width: 27%;
+    margin-top: -40px;
+    margin-left: 37%;
+    margin-bottom: 82px;
+}
+
+
+
