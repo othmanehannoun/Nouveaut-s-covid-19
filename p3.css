@@ -1,0 +1,54 @@
+.bg-light{
+    background-color: white;
+}
+
+.navbar-nav{
+    margin-left: 42%;
+    text-align: right;
+    font-size: 18px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.5);
+    margin: 0px 15px;
+}
+
+.span1{
+   color: blue;
+}
+
+.navbar-light .navbar-brand {
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 3%;
+}
+
+.phrase1{
+    text-align: center;
+    font-size: 28px;
+    font-family: unset;
+    color: black;
+    margin-bottom: 12px;
+    margin-top: 8%;
+}
+
+.b{
+    border-bottom: 1px solid black;
+    width: 20%;
+    margin-left: 40%;
+    margin-bottom: -45px;
+}
+
+.row {
+    margin-top: 10%;
+    padding: 0px 131px;
+}
+
+.card-text:last-child {
+    font-size: 27px;
+}
+
+.card-img-top {
+    margin-bottom: 65px;
+    
+}
